@@ -6,6 +6,7 @@ configurations {
 dependencies {
     runtime project(':osmosis-apidb')
     runtime project(':osmosis-areafilter')
+    runtime project(':osmosis-replication-filter')
     runtime project(':osmosis-core')
     runtime project(':osmosis-dataset')
     runtime project(':osmosis-extract')

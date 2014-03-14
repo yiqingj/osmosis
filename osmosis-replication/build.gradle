@@ -2,4 +2,5 @@ dependencies {
     compile project(':osmosis-core')
     compile project(':osmosis-set')
     compile project(':osmosis-xml')
+    compile group: 'com.googlecode.json-simple', name: 'json-simple', version: '1.1'
 }
